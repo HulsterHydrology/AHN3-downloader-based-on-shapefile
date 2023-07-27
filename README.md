@@ -1,6 +1,6 @@
 # AHN3 Download Script
 
-This script allows for automated downloading of AHN3 files based on the geographical extent of a shapefile.
+This Python script allows for automated downloading of AHN3 files based on the geographical extent of a shapefile.
 
 ## Usage
 
